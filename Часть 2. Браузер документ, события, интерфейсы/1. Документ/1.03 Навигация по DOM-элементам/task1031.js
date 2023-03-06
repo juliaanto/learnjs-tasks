@@ -1,5 +1,5 @@
 // Дочерние элементы в DOM 
-// https://learn.javascript.ru/task/dom-children
+https://learn.javascript.ru/task/dom-children
 
 <html>
 <body>
