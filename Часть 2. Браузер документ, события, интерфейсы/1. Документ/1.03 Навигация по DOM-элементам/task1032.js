@@ -1,5 +1,4 @@
 // Вопрос о соседях
-https://learn.javascript.ru/task/navigation-links-which-null
 
 // Если elem – произвольный узел DOM-элемента…
 
