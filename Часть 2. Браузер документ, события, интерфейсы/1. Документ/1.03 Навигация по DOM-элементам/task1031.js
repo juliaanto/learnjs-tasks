@@ -1,4 +1,4 @@
-[Дочерние элементы в DOM](https://learn.javascript.ru/task/dom-children)
+// Дочерние элементы в DOM
 
 <html>
 <body>
