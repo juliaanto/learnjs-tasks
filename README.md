@@ -1,0 +1,1 @@
+Решение задач из [учебника JavaScript](https://learn.javascript.ru/).
